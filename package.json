@@ -1,7 +1,7 @@
 {
-  "name": "mammoth",
-  "version": "1.7.1",
-  "author": "Michael Williamson <mike@zwobble.org>",
+  "name": "mammoth-bird",
+  "version": "1.7.2",
+  "author": "Michael Williamson <mike@zwobble.org>, forked by Constantin Wintoniak <wintoniak@gmail.com>",
   "description": "Convert Word documents from docx to simple HTML and Markdown",
   "keywords": [
     "docx",
@@ -14,7 +14,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mwilliamson/mammoth.js.git"
+    "url": "https://github.com/wintoniak/mammoth-bird.js.git"
   },
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
